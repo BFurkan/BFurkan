@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hello, I'm Bayram Furkan!</h1>
 
-<!--
-**BFurkan/BFurkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/BayarFurkanb)](https://twitter.com/BayarFurkanb)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/mperspective)](https://instagram.com/mperspective)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/rection)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rection)
 
-Here are some ideas to get you started:
+Welcome my GitHub profile. I’m currently working on DevOps and Linux Tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### My Stats 🔭
+
+
+<a href="https://github.com/rection/github-readme-stats">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=rection&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="180em" align="center" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rection&layout=compact&langs_count=7&theme=dark" />
+</a>
+    
+<br>
+    
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=frkanbayr&unique=yes&width=800&count=5)
+
+
