@@ -5,7 +5,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/rection)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rection)
 
-Welcome my GitHub profile. I’m currently working on DevOps and Linux Tools.
+Welcome my GitHub profile. I’m currently working on C and Java languages
 
 
 ### My Stats 🔭
