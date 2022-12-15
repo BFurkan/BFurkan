@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/BayarFurkanb)](https://twitter.com/BayarFurkanb)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/mperspective)](https://instagram.com/mperspective)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/rection)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/Bfurkan)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rection)
 
 Welcome my GitHub profile. I’m currently working on C and Java languages
