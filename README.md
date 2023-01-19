@@ -19,6 +19,6 @@ Welcome my GitHub profile. I’m currently working on C and Java languages
 <br>
     
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=frkanbayr&unique=yes&width=800&count=5)
+
 
 
