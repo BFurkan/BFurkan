@@ -5,7 +5,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/Bfurkan)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bfurkan)
 
-Welcome my GitHub profile. I’m currently working on C and Java languages
+Welcome my GitHub profile. I’m currently working on Full Stack Development
 
 
 ### My Stats 🔭
